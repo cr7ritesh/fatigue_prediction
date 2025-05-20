@@ -47,6 +47,8 @@ This model can be integrated into a Digital Twin for health monitoring:
 * Predict fatigue risk in real-time
 * Visual suggestion on user’s digital twin avatar to suggest hydration or rest
 
+![Digital Twin Flowchart](img1.png)
+
 ## Requirements
 
 * Python 3.x
